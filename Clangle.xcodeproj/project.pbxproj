@@ -110,6 +110,7 @@
 				TargetAttributes = {
 					E93DBBA11E1EF5CD0036206D = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 7HLV4SJH4C;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -270,6 +271,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7HLV4SJH4C;
 				INFOPLIST_FILE = Clangle/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Tom.Clangle;
@@ -281,6 +283,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7HLV4SJH4C;
 				INFOPLIST_FILE = Clangle/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Tom.Clangle;
